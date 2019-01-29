@@ -1,2 +1,2 @@
 # DB-Perpus
-Database di Peminjaman Prasarana Mushola 
+Database di Peminjaman Buku Perpustakaan
