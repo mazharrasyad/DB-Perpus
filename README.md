@@ -1,2 +1,2 @@
 # DB-Perpus
-Database di Peminjaman Buku Perpustakaan
+Database Peminjaman Buku Perpustakaan
